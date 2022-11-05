@@ -1,0 +1,25 @@
+.espace {
+        margin-top: 10%;
+  }
+
+  .ajustement {
+    width: 500px;
+    text-align: start;
+    border: 2px solid black;
+  }
+  
+.image {
+
+    width: 504px;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
